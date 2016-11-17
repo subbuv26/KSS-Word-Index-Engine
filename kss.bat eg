@@ -1,0 +1,4 @@
+cd sourcefiles
+javac -d ../classes HomeWindow.java
+cd ../classes
+java HomeWindow

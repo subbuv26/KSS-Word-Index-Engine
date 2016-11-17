@@ -1,0 +1,4 @@
+cd sourcefiles
+make
+cd ../classes
+java HomeWindow
